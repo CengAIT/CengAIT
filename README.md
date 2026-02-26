@@ -26,6 +26,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CengAIT&show_icons=true&theme=radical)
 
 ### LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=CengAIT&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=cengait&theme=dark)
 
 <p align="center"> Not stopping until done!</p>
