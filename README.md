@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Ahsen 👋! </h1>
 
-<!--
-**CengAIT/CengAIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🎓 Computer Engineering student at **Kocaeli University**.
+- 📟 Passionate about **Embedded Systems** and **IoT** (Working on STM32 & LoRa).
+- 🌱 Currently learning more about hardware-software integration.
 
-Here are some ideas to get you started:
+### Tech Stack
+#### Programmimg Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools & Technologies
+![STM32](https://img.shields.io/badge/stm32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Let's Connect
+Email: [akturk1176@gmail.com]
+[LinkedIn](linkedin.com/in/ahsen-ikbal-türk)
+
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AITCeng&theme=radical)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AITCeng&show_icons=true&theme=radical)
+
+### LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=cengait&theme=dark)
+
+<p align="center"> Not stopping until done!</p>
