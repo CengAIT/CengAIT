@@ -20,12 +20,12 @@
 - 💼 **LinkedIn:** [linkedin.com/in/ahsen-ikbal-türk](https://www.linkedin.com/in/ahsen-ikbal-türk)
 
 ### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AITCeng&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CengAIT&theme=radical)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AITCeng&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CengAIT&show_icons=true&theme=radical)
 
 ### LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=cengait&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=CengAIT&theme=dark)
 
 <p align="center"> Not stopping until done!</p>
