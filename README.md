@@ -16,8 +16,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Let's Connect
-Email: [akturk1176@gmail.com]
-[LinkedIn](linkedin.com/in/ahsen-ikbal-türk)
+- 📫 **Email:** [akturk1176@gmail.com](mailto:akturk1176@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ahsen-ikbal-türk](https://www.linkedin.com/in/ahsen-ikbal-türk)
 
 ### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AITCeng&theme=radical)
