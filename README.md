@@ -15,6 +15,9 @@
 ![STM32](https://img.shields.io/badge/stm32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### Awards & Projects
+- 📡 Precision Docking and Geometric Calculations with LiDAR Data
+
 ### Let's Connect
 - 📫 **Email:** [akturk1176@gmail.com](mailto:akturk1176@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/ahsen-ikbal-türk](https://www.linkedin.com/in/ahsen-ikbal-türk)
