@@ -17,6 +17,7 @@
 
 ### Awards & Projects
 - 📡 Precision Docking and Geometric Calculations with LiDAR Data
+- 📝 Article Graph Analysis Application
 
 ### Let's Connect
 - 📫 **Email:** [akturk1176@gmail.com](mailto:akturk1176@gmail.com)
